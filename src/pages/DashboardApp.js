@@ -46,7 +46,7 @@ export default function DashboardApp() {
               color="#f9fafb"
               style={{ fontStyle: 'italic', fontWeight: 'bold', verticalAlign: 'middle' }}
             >
-              You deserve a job that loves you back !!
+              You deserve a job that loves you back !
             </Typography>
           </div>
         </Box>
